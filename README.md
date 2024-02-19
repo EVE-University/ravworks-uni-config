@@ -4,4 +4,4 @@ You can download these files and upload them to Ravworks to get configuration of
 
 Structures configuration is based on the Consolidated forum post of NSC structures (https://forum.eveuniversity.org/viewtopic.php?p=956643#p956643)
 
-You are more then welcome to post changes and fix errors in the config file. Please fork this repo, make changes to your fork and request a merge to the UNI repo.
+You are more then welcome to post changes and fix errors in the config file. Please fork this repo, make changes to your fork and request a merge to the UNI repo. If possible keep the files formatted (not minified), this requires you to either modify the files manually or reformat whatever you get from ravworks. This will make diffs much cleaner.
